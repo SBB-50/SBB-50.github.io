@@ -1,3 +1,4 @@
-# verkefniskoli
-verkefni f skólann, veit ekki hvort að vscode installið heldur áfram svo þetta er backuppið
+# Persónuleg vefsíða
+|  Forsíða sem má nota til að aðgangast allt
+V
 # https://sbb-50.github.io
