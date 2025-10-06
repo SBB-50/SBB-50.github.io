@@ -1,0 +1,25 @@
+[2025-09-08 10:30:44.330] [info] Using configuration file /home/stef/.config/waybar/config.jsonc
+[2025-09-08 10:30:44.331] [info] Including resource file: ~/.config/waybar/modules.json
+[2025-09-08 10:30:44.340] [info] Using CSS file /home/stef/.config/waybar/style.css
+[2025-09-08 10:30:44.359] [info] Hyprland IPC starting
+[2025-09-08 10:30:44.360] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-08 10:30:44.568] [error] Failed to query power-profiles-daemon via dbus: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2025-09-08 10:30:44.592] [info] Bar configured (width: 1180, height: 36) for output: eDP-1
+[2025-09-08 10:30:47.087] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+sed: couldn't flush stdout: Broken pipe
+[2025-09-08 10:30:47.247] [info] Using configuration file /home/stef/.config/waybar/config.jsonc
+[2025-09-08 10:30:47.248] [info] Including resource file: ~/.config/waybar/modules.json
+[2025-09-08 10:30:47.262] [info] Using CSS file /home/stef/.config/waybar/style.css
+[2025-09-08 10:30:47.274] [info] Hyprland IPC starting
+[2025-09-08 10:30:47.274] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-08 10:30:47.503] [error] Failed to query power-profiles-daemon via dbus: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2025-09-08 10:30:47.536] [info] Bar configured (width: 1180, height: 36) for output: eDP-1
+
+(pavucontrol:4353): Gtk-WARNING **: 10:33:59.582: Unknown key gtk-modules in /home/stef/.config/gtk-4.0/settings.ini
+
+(pavucontrol:4353): Gtk-WARNING **: 10:34:00.231: GtkGizmo 0x563fd4d203e0 (slider) reported min width -2, but sizes must be >= 0
+
+(pavucontrol:4353): Gtk-WARNING **: 10:34:00.231: GtkGizmo 0x563fd4d1d3b0 (slider) reported min height -2, but sizes must be >= 0
+
+** (waybar:4130): WARNING **: 10:35:03.469: Status Notifier Host with bus name ':1.78' and object path '/StatusNotifierHost/0' is already registered
+[2025-09-08 10:38:16.106] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
