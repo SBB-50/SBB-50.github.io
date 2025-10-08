@@ -206,7 +206,7 @@ Hver eru dæmi um rökhugsun? Þegar ég var að hugsa um hvaða nám ég átti 
 - Frágangur
     - 12 punkta letur
     - 1.5 línubil
-    - 3cm spásíur
+    - 3cm spásíurð 
     - merkt m nafni, kennara og áfanga í vinstra horni
 - Um ritgerðarsmíð eftir Gunnar Harðarson
 ## Hvað finnst mér raunverulega?(Að hlusta eftir eigin hugsun)
@@ -220,5 +220,8 @@ Hver eru dæmi um rökhugsun? Þegar ég var að hugsa um hvaða nám ég átti 
 - Vita contemlativa
 - heimspekileg hugsun út úr stemningu
 - Heimspekileg hugsun sem vinsemd við eigin hugsun
-### Athygli
+### Það að legga stund á heimspeki
+- hugartilraunir
+    - lestarvandamálið
+- gott til að æfa sig í að hugsa þrátt fyrir að vera ekki byggt á raunverulegum aðstæðum
 
