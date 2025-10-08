@@ -221,3 +221,4 @@ Hver eru dæmi um rökhugsun? Þegar ég var að hugsa um hvaða nám ég átti 
 - heimspekileg hugsun út úr stemningu
 - Heimspekileg hugsun sem vinsemd við eigin hugsun
 ### Athygli
+
