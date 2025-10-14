@@ -1,0 +1,65 @@
+/*Colorscheme: gruvbox (https://github.com/morhetz/gruvbox)*/
+body {
+	background-color: #282828;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px
+}
+h1 {
+	color:#ebdbb2;
+	text-align: center;
+}
+h2 {
+	color:#ebdbb2;
+	text-align: center;
+}
+.border {
+	border-style:double;
+	border-color:#98971a;
+	border-width:10px;
+	margin-left;50px;
+	margin-right;50px;
+}
+.inbord {
+	border-style:inset;
+	border-color: #458588;
+	border-radius:10px;
+	background-color:#ebdbb2;
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	color:#3c3836
+	
+}
+h2 {
+	text-align: center;
+}
+p{
+	margin:10px;
+	white-space:pre-wrap;
+}
+img {
+	border-radius: 4px;
+	padding: 5px;
+	width: 50%;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+video {
+	border-style:inset;
+	border-color: #458588;
+	border-radius:10px;
+	background-color:#ebdbb2;
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	color:#3c3836
+	
+
+}

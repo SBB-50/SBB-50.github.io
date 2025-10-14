@@ -275,7 +275,5 @@ Báðir tíðir gestir í samræðum Platons, sem var ekki vel við sófista
 # Vandamál
 - Hvaða hlutir eiga sér frummynd
 - Í hverju felst hlutdeild frummynda
-# Vandamál
-- Hvaða hlutir eiga sér frummynd
-- Í hverju felst hlutdeild frummynda
+# Categories
 
