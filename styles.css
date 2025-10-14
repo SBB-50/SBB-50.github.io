@@ -30,7 +30,8 @@ h2 {
 	margin-right:20px;
 	margin-top:20px;
 	margin-bottom:20px;
-	color:#3c3836
+	color:#3c3836;
+	font-family:"Courier";
 	
 }
 h2 {
@@ -55,15 +56,14 @@ video {
 	border-color: #458588;
 	border-radius:10px;
 	background-color:#ebdbb2;
-	margin-left:20px;
-	margin-right:20px;
-	margin-top:20px;
-	margin-bottom:20px;
-	color:#3c3836
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	color:#3c3836;
 	
 
 }
 @font-face{
 	font-family"Courier"
-	src:url
+	src:url("https://github.com/SBB-50/SBB-50.github.io/raw/refs/heads/main/Courier%20New.ttf")format("tff");
 }
