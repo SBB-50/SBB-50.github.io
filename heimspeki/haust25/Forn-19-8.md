@@ -272,8 +272,36 @@ Báðir tíðir gestir í samræðum Platons, sem var ekki vel við sófista
 ## Parmenídes
 - Samræðan geymir ungan sókrates, zenon og parmenídes
 - einhyggjusinnar sem sögðu að veruleikinn væri einn, varanlegur og óbreytanlegur sem slíkur
-# Vandamál
+### Vandamál
 - Hvaða hlutir eiga sér frummynd
 - Í hverju felst hlutdeild frummynda
-# Categories
+## Þekkingarfræði
+- Þekkingargreinar
+    - Fræðileg
+    - Verkleg
+    - Siðleg
+## Rökfræði
+- Afleiðsla
+- fyrsta mynstur
+    - adalforsenda m-p
+    - aukaforsenda s-m
+    - nidurstadan   s-p
+
+## Sálin
+- ekki fangi líkamans
+- form lífverunnar
+- raungerving er 1. möguleiki (megund) 2. breyting (raungervingin sjálf)
+- mörg ólík svið sálna
+- Sálarkvarði
+    - Plöntusál
+    - Skynsál
+    - Röksál
+- skynjanlegt svið
+- gerandi og þolandi
+## Eðlisfræði
+- Frummyndir platons breytast ekkert
+- verund, eiginleiki og eðli
+- hermundur er hermundur þrátt fyrir hárvöxt
+- tilfallandi breyting og edlisbreyting
+- efni og form
 
