@@ -21,8 +21,9 @@ h2 {
 	border-style:double;
 	border-color:#98971a;
 	border-width:10px;
-	margin-left;50px;
-	margin-right;50px;
+	margin-left:50px;
+	margin-right:50px;
+	margin-bottom: 20px;
 }
 .inbord {
 	border-style:inset;
@@ -45,9 +46,13 @@ p{
 	white-space:pre-wrap;
 }
 img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 	border-radius: 4px;
 	padding: 5px;
 	width: 50%;
+	text-align: center;
 }
 .center{
 	display: block;
@@ -70,3 +75,4 @@ video {
 	font-family"Courier"
 	src:url("https://github.com/SBB-50/SBB-50.github.io/raw/refs/heads/main/Courier%20New.ttf")format("tff");
 }
+
