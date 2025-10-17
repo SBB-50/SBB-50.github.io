@@ -151,4 +151,8 @@ prison, with every heart fettered, wounded, and maimed?
 ### Þriðji kafli
 - Þroski einstaklingseðlisins
     - Einstaklingsþroski sem skilyrði menntunar, lærdóms og menningar
-    ## 
+## Gagnrýnendur frjálslyndisstefnunnar
+- Jákvætt og neikvætt frelsi
+    - jákvætt frelsi 'til að'
+    - neikvætt frelsi er undan einhverju
+
