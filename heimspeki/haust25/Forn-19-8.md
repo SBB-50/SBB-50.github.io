@@ -304,4 +304,3 @@ Báðir tíðir gestir í samræðum Platons, sem var ekki vel við sófista
 - hermundur er hermundur þrátt fyrir hárvöxt
 - tilfallandi breyting og edlisbreyting
 - efni og form
-
