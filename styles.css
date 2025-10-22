@@ -118,9 +118,9 @@ iframe {
     display: block;
   }
 }
-a {
-	text-align:center;
-}
+
+
+
 @font-face{
 	font-family"Courier"
 	src:url("https://github.com/SBB-50/SBB-50.github.io/raw/refs/heads/main/Courier%20New.ttf")format("tff");
