@@ -10,13 +10,12 @@ h1 {
 	color:#ebdbb2;
 	text-align: center;
 }
-.h2top{
 
-h2 {
+.h2top h2 {
 	color:#ebdbb2;
 	text-align: center;
 }
-}
+
 .border {
 	border-style:double;
 	border-color:#98971a;
