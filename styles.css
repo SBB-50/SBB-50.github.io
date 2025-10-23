@@ -116,7 +116,9 @@ iframe {
   }
 }
 
-
+a {
+	text-align: center;
+}
 
 @font-face{
 	font-family"Courier"
