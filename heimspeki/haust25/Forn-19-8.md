@@ -304,3 +304,15 @@ Báðir tíðir gestir í samræðum Platons, sem var ekki vel við sófista
 - hermundur er hermundur þrátt fyrir hárvöxt
 - tilfallandi breyting og edlisbreyting
 - efni og form
+
+## Hellen'isk heimspeki
+- Samfélög breytast í kjölfar Alexanders Mikla
+- Heimspekin verður mikilvæg um allt miðjarðarhaf
+- Nýir skólar
+    - epíkúringar, stóumenn og efahyggjumenn (pyrrhonskir og akademískir)
+- ánægja sem ferli
+    - eins og að klóra sér
+- líkamleg ánægja
+    - td að borða
+- sálræn ánægja
+    - vinátta, að vera látinn í friði
