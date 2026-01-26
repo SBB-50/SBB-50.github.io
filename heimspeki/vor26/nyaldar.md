@@ -169,8 +169,23 @@ fylla inn í (frá 1. tíma)
 
 # svavar er ljósmóðir okkar (MJÖG MIKILVÆGT)
 
+## Descartes
+### Verk descartes
+- 1628 reglur til leiðbeiningar huganum, merkilegt því hann er að hugsa um beitingu á heimspeki
+- 1632 heimurinn, kirkjan ekki ánægð
 
-## guð
+### Orðræða um aðferð
+- í staðinn fyrir heiminn
+- inngangur og þrjú sýnishorn
+    - orðræða um aðferð
+    - ljósfræðin
+    - háloftafræðin
+    - rúmfræðin
+### Skynsemin í *orðræðunni*
+- brjóstvit eða skynsemi
+- hæfileikinn til að vega og meta og greina rétt frá röngu
+
+## 
 
 ## svavars innskot
 - nýr platonismi verður til á um 1600

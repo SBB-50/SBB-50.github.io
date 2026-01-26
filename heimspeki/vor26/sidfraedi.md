@@ -21,8 +21,6 @@
     - t.d. mikilvægi siðgerðar og þroska, eðli tilfinninga
     - þrætt inn í mjög margar siðfræðikenningar (verður því líklega ekki tekið fyrir eitt og sér neitt sérstaklega mikið)
 
-
-
 ## Menningarleg afstæðishyggja
 - siðadómar miðast við menningarheim
 - flestir ósammála þessu sem alhæfingu
@@ -88,3 +86,23 @@
 ## er sérhyggja óyfirstíganleg?
 - ákveðin sérhyggja oft notuð til að útskýra afhverju ósérplægni ér góð
 
+## Mætti seint í tíma, vantar glósur !!
+
+## Hlutleysi gilda gagnvart gerandanum
+- Skiptir miklu máli í leikslokakenningum
+- 4 Börn á strönd
+    - eitt þeirra er eigið barn
+    - 3 eru það ekki
+    - alda togar þau út
+    - ég get annaðhvort togað til baka hin 3 börnin
+    - eða eigið barn
+    - oft gerð krafa til hlutleysis
+
+## Skyldukenningar segja að
+- gildi miðist við geranda
+- það sem á að gera miðast af reglum
+    - það er rangt ef *ég* meiði náungann
+
+## Fyrst: grísk siðfræði lifir góðu lífi
+- hugmyndin um mikilvægi dyggða á uppruna hjá grikkjum og hefur ekki misst mikilvægi sitt síðan
+- 
