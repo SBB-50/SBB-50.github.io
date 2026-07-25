@@ -1,8 +1,12 @@
 /*Colorscheme: gruvbox (https://github.com/morhetz/gruvbox)*/
 body {
-	background-color: #282828;
+/*	background-color: #282828;*/
+	background-color:#000000;
 	padding-bottom: 50px;
-	padding-left: 30px
+	padding-left: 30px;
+	display: grid;
+  	justify-content: center;
+  	align-items: center;
 }
 h1 {
 	color:#ebdbb2;
@@ -16,20 +20,34 @@ h1 {
 
 .border {
 	border-style:double;
-	border-color:#98971a;
+	width:770px;
+	height:600px;
+	border-color:#861657;
 	border-width:10px;
-	margin-left:50px;
-	margin-right:50px;
-	margin-bottom: 20px;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom: 10px;
+	background-color:#7D84B2;
+	display:flex;
+	
+}
+.scrollbox {
+	display:grid;
+	justify-content:center;
+	align-items: center;
+	overflow:auto;
+	width:670px;
+	height:600px;
 }
 .inbord {
 	border-style:inset;
 	border-color: #458588;
-	background-color:#ebdbb2;
+
+	/*background-color:#ebdbb2;*/
+	background-color:#dda77b;
 	margin-left:20px;
 	margin-right:20px;
 	margin-top:20px;
-	margin-bottom:20px;
 	color:#3c3836;
 	font-family:"Courier";
 	
@@ -50,9 +68,12 @@ img {
 	text-align: center;
 }
 button {
+	border-style:groove;
+	border-color:#7D84B2;
 	margin-left:auto;
 	margin-right:auto;
 	text-align: center;
+	background-color:#282828;
 }
 .butt{
 	text-align:center;
@@ -85,8 +106,10 @@ iframe {
 
 }
 .navbar {
-	width: 100%;
-	background-color: #1d2021;
+	
+	width: 100px;
+	height:600px;
+	background-color: #5B639A;
 	overflow: auto;
 	top:0;
 }
@@ -94,12 +117,14 @@ iframe {
   float: left;
   text-align: center;
   padding: 12px;
+  border-style:groove;
+  border-color:#7D84B2;
   color: #ebdbb2;
   text-decoration: none;
   font-size: 17px;
 }
 .navbar a:hover {
-  background-color: #282828;
+  background-color: #7D84B2;
 }
 .active {
   background-color: #04AA6D;
