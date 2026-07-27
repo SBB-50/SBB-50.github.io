@@ -52,6 +52,7 @@ h1 {
 	margin-top:20px;
 	color:#3c3836;
 	font-family:"Courier";
+	display:grid;
 	
 }
 h2 {
@@ -147,4 +148,21 @@ a {
 	font-family"Courier"
 	src:url("https://github.com/SBB-50/SBB-50.github.io/raw/refs/heads/main/Courier%20New.ttf")format("tff");
 }
+figure {
+  border: none;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  min-width:200px;
+  max-width: 220px;
+  margin: auto;
+}
 
+
+figcaption {
+  background-color: #222222;
+  color: white;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
