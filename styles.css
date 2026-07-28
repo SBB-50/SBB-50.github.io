@@ -53,6 +53,7 @@ h1 {
 	color:#3c3836;
 	font-family:"Courier";
 	display:grid;
+	max-width:660px;
 	
 }
 h2 {
