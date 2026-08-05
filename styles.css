@@ -114,7 +114,7 @@ iframe {
 	width: 105px;
 	height:600px;
 	background-color: #5B639A;
-	overflow: hidden;
+	overflow: scroll;
 	top:0;
 }
 .navbar a {
