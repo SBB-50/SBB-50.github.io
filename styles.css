@@ -121,6 +121,7 @@ iframe {
   float: left;
   text-align: center;
   padding: 12px;
+  max-width:100px;
   border-style:groove;
   border-color:#7D84B2;
   color: #ebdbb2;
