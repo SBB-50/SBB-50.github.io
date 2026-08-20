@@ -169,3 +169,25 @@ figcaption {
   padding: 3px;
   text-align: center;
 }
+
+.ws-btn img{
+	width: 100%;
+	padding:0px;
+
+}
+
+.ws-marquee {
+    position: relative;
+    margin-left:10px
+}
+
+.buttonset-1 .ws-img {
+    width: auto;
+    filter: opacity(0.85);
+    transition: filter 0.2s ease;
+}
+
+.buttonset-1 .ws-btn:hover .ws-img {
+    filter: opacity(1);
+}
+
