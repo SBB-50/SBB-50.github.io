@@ -5,8 +5,8 @@ body {
 	padding-bottom: 50px;
 	padding-left: 30px;
 	display: grid;
-  	justify-content: center;
-  	align-items: center;
+  	justify-content: center;*/
+  	align-items: top;
 	overflow:hidden;
 }
 h1 {
@@ -36,7 +36,7 @@ h1 {
 .scrollbox {
 	display:grid;
 	justify-content:center;
-	align-items: center;
+	align-items: flex-start;
 	overflow:auto;
 	width:665px;
 	height:600px;
@@ -168,10 +168,4 @@ figcaption {
   font: italic smaller sans-serif;
   padding: 3px;
   text-align: center;
-}
-.buttonset-1.ws-marquee-viewport {
-    background-color: #f8fafc;
-    padding: 32px 0;
-    border-top: 1px solid #e2e8f0;
-    border-bottom: 1px solid #e2e8f0;
 }
